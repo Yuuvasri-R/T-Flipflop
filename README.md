@@ -67,7 +67,11 @@ endmodule
 Implementation of T flipflop using verilog and validating their functionality using their functional tables
 
 
+...
 
+
+
+...
 
 
 
@@ -77,10 +81,6 @@ Implementation of T flipflop using verilog and validating their functionality us
 
 
 
-
-
-
-
 ....
 
 
@@ -94,6 +94,3 @@ Implementation of T flipflop using verilog and validating their functionality us
 
 
 
-
-
-....
