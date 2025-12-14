@@ -68,15 +68,32 @@ Implementation of T flipflop using verilog and validating their functionality us
 
 
 
-...
 
 
 
 ...
 
 
-...
 
 
 
-...
+
+
+
+
+....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+....
